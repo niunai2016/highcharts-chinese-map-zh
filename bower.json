@@ -1,0 +1,29 @@
+{
+  "name": "highcharts-chinese-map-zh",
+  "homepage": "https://github.com/zhangtasdq/highcharts-chinese-map-zh",
+  "authors": [
+    "zhang <cqmygasdq@sina.com>"
+  ],
+  "description": "将 highcharts 中国地图的地名翻译成中文",
+  "main": "sample.html",
+  "moduleType": [],
+  "keywords": [
+    "highcharts",
+    "chinese",
+    "map",
+    "translate"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "highcharts": "^4.2.3"
+  }
+}
