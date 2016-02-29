@@ -9,11 +9,12 @@ highcharts-chinese-map-zh
 例子
 ---
 1. 请查看 `sample.html` 文件
-2. [Highcharts map 翻译例子](https://jsfiddle.net/cqmyg/herh4roy/1/)
+2. [highcharts-chinese-map-zh 翻译例子](https://jsfiddle.net/cqmyg/herh4roy/2/)
 
 使用方法
 ---
-1. 引入 `javascript` 文件
+
+#####引入 `javascript` 文件
 
 ```html
 <!-- 库文件(!!! 请替换为您自己的文件路径) -->
@@ -24,7 +25,8 @@ highcharts-chinese-map-zh
 <script src="./javascript/china-map.js"></script>
 <script src="./javascript/china-map-translate.js"></script
 ```
-2. 绘制地图
+
+#####绘制地图
 
 ```javascript
 
